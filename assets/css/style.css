@@ -11,11 +11,11 @@ header {
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     overflow: hidden;
     box-sizing: border-box;
     text-align: center;
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header a:link, a:visited, a:hover, a:active {
@@ -64,10 +64,26 @@ section {
     box-sizing: border-box;
 }
 
+h1 {
+    padding: 20px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #4aaaa5;
+    border-bottom: 2px solid #cccccc;
+    margin: 0 25px;
+}
+
 #headshot {
     float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin: 25px;
+
+}
+
+p {
+    margin: 25px;
+    line-height: 1.5em;
+    font-size: 20px;
 }
 
 footer {
