@@ -100,3 +100,21 @@ footer {
 .content {
     min-height: calc(100vh - 164px);
 }
+
+#contact form {
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+form input {
+    margin-bottom: 20px;
+}
+
+#submit {
+    margin-top: 20px;
+    box-sizing: border box;
+    padding: 10px 20px;
+    height: 100%;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
