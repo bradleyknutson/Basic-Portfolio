@@ -59,6 +59,7 @@ nav a {
 section {
     width: 960px;
     margin-top: 20px;
+    padding-bottom: 20px;
     margin: 0 auto;
     background-color: #ffffff;
     box-sizing: border-box;
@@ -80,7 +81,7 @@ h1 {
 
 }
 
-p {
+section p {
     margin: 25px;
     line-height: 1.5em;
     font-size: 20px;
@@ -91,4 +92,11 @@ footer {
     height: 50px;
     background-color: #777777;
     color: #ffffff;
+    border-top: 8px solid #4aaaa5;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.content {
+    min-height: calc(100vh - 164px);
 }
