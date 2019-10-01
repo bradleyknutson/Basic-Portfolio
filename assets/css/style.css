@@ -112,9 +112,43 @@ form input {
 
 #submit {
     margin-top: 20px;
-    box-sizing: border box;
+    box-sizing: border-box;
     padding: 10px 20px;
     height: 100%;
     color: #ffffff;
     background-color: #4aaaa5;
+}
+
+#portfolio div {
+    margin: 25px;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+#portfolio {
+    box-sizing: border-box;
+    min-height: 900px;
+}
+
+#portfolio h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    color: #ffffff;
+    width: 100%;
+    background-color: #4aaaa5;
+    height: 40px;
+    position: relative;
+    bottom: 60px;
+    text-align: center;
+    padding: 10px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
