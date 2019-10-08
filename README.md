@@ -1,6 +1,13 @@
 # Basic-Portfolio
 This project is the initial building block for building my own personal portfolio.  This project was created using vanilla HTML and CSS, with no libraries or javascript.
 
+## Motivation
+Currently I am attending the DU Coding Bootcamp for full-stack web development and this is the first homework assignment.  The requirements for this project are as follows.
+
+* In this assignment, you'll build a professional portfolio site using HTML/CSS. These instructions include a short style guide; follow it to design an aesthetically pleasing layout while creating different kinds of complex HTML elements.
+
+* Welcome to your first opportunity as a front-end web designer. You will be advocating for your most important client—yourself! By making a portfolio, you'll take your first step toward building your web development brand.
+
 ## License
 Copyright 2019 Bradley Knutson
 
